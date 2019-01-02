@@ -1,0 +1,1260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv source-info-url="http://allfrtv.ga/" source-data-url="http://allfrtv.ga/" generator-info-name="PHP" generator-info-url="http://allfrtv.ga/">
+<channel id="UltraNature">
+    <display-name>Ultra Nature</display-name>
+	<icon src="//upload.wikimedia.org/wikipedia/fr/4/4e/Ultra_Nature_logo_2016.png"/>
+</channel>
+<channel id="StPierreEtMiquelon1ere">
+    <display-name>Saint Pierre et Miquelon 1ère</display-name>
+	<icon src="//i.imgur.com/rq86XdK.png"/>
+</channel>
+<channel id="AntenneReunion">
+    <display-name>Antenne Réunion</display-name>
+	<icon src="//i.imgur.com/yfIOOR3.png"/>
+</channel>
+<channel id="TeleKreol">
+    <display-name>Télé Kreol</display-name>
+	<icon src="//i.imgur.com/5giJJxg.jpg"/>
+</channel>
+<channel id="Mayotte1ere">
+    <display-name>Mayotte 1ère</display-name>
+	<icon src="//i.imgur.com/6ahB35q.png"/>
+</channel>
+<channel id="ParamountChannelDecale.fr">
+    <display-name>Paramount Channel Décalé</display-name>
+	<icon src="//i.imgur.com/okyHY86.png"/>
+</channel>
+<channel id="GameOneplus1.fr">
+    <display-name>Game One + 1</display-name>
+	<icon src="//i.imgur.com/zHHNrMj.jpg"/>
+</channel>
+<channel id="Museum">
+    <display-name>Museum</display-name>
+	<icon src="//i.imgur.com/o0DcgMJ.png"/>
+</channel>
+<channel id="Viceland">
+    <display-name>Viceland</display-name>
+	<icon src="//i.imgur.com/5zfidHC.jpg"/>
+</channel>
+<channel id="ES1">
+    <display-name>ES1</display-name>
+	<icon src="//i.imgur.com/LB0Emlq.png"/>
+</channel>
+<channel id="ICIQuebec">
+    <display-name>ICI Radio Canada Télé Québec</display-name>
+	<icon src="//i.imgur.com/SCrGsIK.png"/>
+</channel>
+<channel id="ICIAcadie">
+    <display-name>ICI Radio Canada Télé Acadie</display-name>
+	<icon src="//i.imgur.com/SCrGsIK.png"/>
+</channel>
+<channel id="ICIMontreal">
+    <display-name>ICI Radio Canada Télé Montréal</display-name>
+	<icon src="//i.imgur.com/SCrGsIK.png"/>
+</channel>
+<channel id="ICIAlberta">
+    <display-name>ICI Radio Canada Télé Alberta</display-name>
+	<icon src="//i.imgur.com/SCrGsIK.png"/>
+</channel>
+<channel id="ICIOttawaGatineau">
+    <display-name>ICI Radio Canada Télé Ottawa-Gatineau</display-name>
+	<icon src="//i.imgur.com/SCrGsIK.png"/>
+</channel>
+<channel id="ICIMauricie">
+    <display-name>ICI Radio Canada Télé Mauricie</display-name>
+	<icon src="//i.imgur.com/SCrGsIK.png"/>
+</channel>
+<channel id="ICIOntario">
+    <display-name>ICI Radio Canada Télé Ontario</display-name>
+	<icon src="//i.imgur.com/SCrGsIK.png"/>
+</channel>
+<channel id="ICISaskatchewan">
+    <display-name>ICI Radio Canada Télé Saskatchewan</display-name>
+	<icon src="//i.imgur.com/SCrGsIK.png"/>
+</channel>
+<channel id="ICIEstduQuebec">
+    <display-name>ICI Radio Canada Télé Est du Québec</display-name>
+	<icon src="//i.imgur.com/SCrGsIK.png"/>
+</channel>
+<channel id="ICIEstrie">
+    <display-name>ICI Radio Canada Télé Estrie</display-name>
+	<icon src="//i.imgur.com/SCrGsIK.png"/>
+</channel>
+<channel id="ICISaguenay">
+    <display-name>ICI Radio Canada Télé Saguenay</display-name>
+	<icon src="//i.imgur.com/SCrGsIK.png"/>
+</channel>
+<channel id="ICIManitoba">
+    <display-name>ICI Radio Canada Télé Manitoba</display-name>
+	<icon src="//i.imgur.com/SCrGsIK.png"/>
+</channel>
+<channel id="ICIYukon">
+    <display-name>ICI Radio Canada Télé Yukon</display-name>
+	<icon src="//i.imgur.com/SCrGsIK.png"/>
+</channel>
+<channel id="ICIRDI">
+    <display-name>RDI</display-name>
+	<icon src="//i.imgur.com/xwPHpnD.png"/>
+</channel>
+<channel id="DiscoveryInvestigationF">
+    <display-name>Discovery Investigation</display-name>
+	<icon src="//i.imgur.com/2IhOal9.png"/>
+</channel>
+<channel id="CanalPlusCentre">
+    <display-name>Canal + Centre</display-name>
+	<icon src="//i.imgur.com/KImsjP9.png"/>
+</channel>
+<channel id="CanalPlusCinemaCentre">
+    <display-name>Canal + Cinéma Centre</display-name>
+	<icon src="//i.imgur.com/Y9HYdtQ.png"/>
+</channel>
+<channel id="CanalPlusSeriesCentre">
+    <display-name>Canal + Séries Centre</display-name>
+	<icon src="//i.imgur.com/XbOcKl8.png"/>
+</channel>
+<channel id="CanalPlusFamilyCentre">
+    <display-name>Canal + Family Centre</display-name>
+	<icon src="//i.imgur.com/572gqak.png"/>
+</channel>
+<channel id="CanalPlusOuest">
+    <display-name>Canal + Ouest</display-name>
+	<icon src="//i.imgur.com/5xbyil7.png"/>
+</channel>
+<channel id="CanalPlusCinemaOuest">
+    <display-name>Canal + Cinéma Ouest</display-name>
+	<icon src="//i.imgur.com/3eNtRbC.png"/>
+</channel>
+<channel id="CanalPlusSeriesOuest">
+    <display-name>Canal + Séries Ouest</display-name>
+	<icon src="//i.imgur.com/SGhNc20.png"/>
+</channel>
+<channel id="CanalPlusFamilyOuest">
+    <display-name>Canal + Family Ouest</display-name>
+	<icon src="//i.imgur.com/IAcA3do.png"/>
+</channel>
+<channel id="CanalPlusSport1">
+    <display-name>Canal + Sport 1</display-name>
+	<icon src="//i.imgur.com/ofcKeBr.png"/>
+</channel>
+<channel id="CanalPlusSport2">
+    <display-name>Canal + Sport 2</display-name>
+	<icon src="//i.imgur.com/ODDqjPT.png"/>
+</channel>
+<channel id="CanalPlusSport3">
+    <display-name>Canal + Sport 3</display-name>
+	<icon src="//i.imgur.com/S1W0wIv.png"/>
+</channel>
+<channel id="CanalPlusSport4">
+    <display-name>Canal + Sport 4</display-name>
+	<icon src="//i.imgur.com/F6EUeO1.png"/>
+</channel>
+<channel id="Cine12">
+    <display-name>Ciné 12</display-name>
+	<icon src="//i.imgur.com/e8pKr2p.png"/>
+</channel>
+<channel id="Footplus2424">
+    <display-name>Foot+ 24/24</display-name>
+	<icon src="//i.imgur.com/Ozn38ZD.png"/>
+</channel>
+<channel id="Multisports1">
+    <display-name>Multisports 1</display-name>
+	<icon src="//i.imgur.com/1j1bFAr.png"/>
+</channel>
+<channel id="Multisports2">
+    <display-name>Multisports 2</display-name>
+	<icon src="//i.imgur.com/1j1bFAr.png"/>
+</channel>
+<channel id="Multisports3">
+    <display-name>Multisports 3</display-name>
+	<icon src="//i.imgur.com/1j1bFAr.png"/>
+</channel>
+<channel id="Multisports4">
+    <display-name>Multisports 4</display-name>
+	<icon src="//i.imgur.com/1j1bFAr.png"/>
+</channel>
+<channel id="Multisports5">
+    <display-name>Multisports 5</display-name>
+	<icon src="//i.imgur.com/1j1bFAr.png"/>
+</channel>
+<channel id="Multisports6">
+    <display-name>Multisports 6</display-name>
+	<icon src="//i.imgur.com/1j1bFAr.png"/>
+</channel>
+<channel id="MySports">
+    <display-name>My Sports</display-name>
+	<icon src="//i.imgur.com/rwlLJNG.png"/>
+</channel>
+<channel id="MySports1">
+    <display-name>My Sports 1</display-name>
+	<icon src="//i.imgur.com/rwlLJNG.png"/>
+</channel>
+<channel id="MySports2">
+    <display-name>My Sports 2</display-name>
+	<icon src="//i.imgur.com/rwlLJNG.png"/>
+</channel>
+<channel id="MySports3">
+    <display-name>My Sports 3</display-name>
+	<icon src="//i.imgur.com/rwlLJNG.png"/>
+</channel>
+<channel id="MySports4">
+    <display-name>My Sports 4</display-name>
+	<icon src="//i.imgur.com/rwlLJNG.png"/>
+</channel>
+<channel id="MySports5">
+    <display-name>My Sports 5</display-name>
+	<icon src="//i.imgur.com/rwlLJNG.png"/>
+</channel>
+<channel id="MySports6">
+    <display-name>My Sports 6</display-name>
+	<icon src="//i.imgur.com/rwlLJNG.png"/>
+</channel>
+<channel id="MySports7">
+    <display-name>My Sports 7</display-name>
+	<icon src="//i.imgur.com/rwlLJNG.png"/>
+</channel>
+<channel id="MySports8">
+    <display-name>My Sports 8</display-name>
+	<icon src="//i.imgur.com/rwlLJNG.png"/>
+</channel>
+<channel id="MySports9">
+    <display-name>My Sports 9</display-name>
+	<icon src="//i.imgur.com/rwlLJNG.png"/>
+</channel>
+<channel id="mplus">
+    <display-name>Musique Plus</display-name>
+	<icon src="//i.imgur.com/8ar45SI.png"/>
+</channel>
+<channel id="mmax">
+    <display-name>Max</display-name>
+	<icon src="//i.imgur.com/fZVXNNY.png"/>
+</channel>
+<channel id="vtele">
+    <display-name>V</display-name>
+	<icon src="//i.imgur.com/gIi7ZFV.png"/>
+</channel>
+<channel id="RTSDeux">
+    <display-name>RTS Deux</display-name>
+	<icon src="//i.imgur.com/bVgMR4f.png"/>
+</channel>
+<channel id="ParamountChannel.fr">
+    <display-name>Paramount Channel</display-name>
+	<icon src="//i.imgur.com/okyHY86.png"/>
+</channel>
+<channel id="OCSChoc">
+    <display-name>OCS Choc</display-name>
+	<icon src="//i.imgur.com/7o2SoPK.png"/>
+</channel>
+<channel id="OCSCity">
+    <display-name>OCS City</display-name>
+	<icon src="//upload.wikimedia.org/wikipedia/fr/thumb/6/6d/OCS_City.svg/128px-OCS_City.svg.png"/>
+</channel>
+<channel id="OCSMax">
+    <display-name>OCS Max</display-name>
+	<icon src="//i.imgur.com/qGbatCm.png"/>
+</channel>
+<channel id="OCSGeants">
+    <display-name>OCS Géants</display-name>
+	<icon src="//i.imgur.com/tTEiZ9a.jpg"/>
+</channel>
+<channel id="RougeTV">
+    <display-name>Rouge TV</display-name>
+	<icon src="//i.imgur.com/hF0PVKp.png"/>
+</channel>
+<channel id="PublicSenat">
+    <display-name>Public Sénat</display-name>
+	<icon src="//i.imgur.com/PHD31oJ.png"/>
+</channel>
+<channel id="LCP2424">
+    <display-name>LCP 24/24</display-name>
+	<icon src="//i.imgur.com/kHvPEqxt.png"/>
+</channel>
+<channel id="TVR35">
+    <display-name>TVR35</display-name>
+	<icon src=""/>
+</channel>
+<channel id="TV5MondeEurope.fr">
+    <display-name>TV5 Monde Europe</display-name>
+	<icon src="//i.imgur.com/NF3O0uJt.jpg"/>
+</channel>
+<channel id="BFMBusiness.fr">
+    <display-name>BFM Business</display-name>
+	<icon src="//i.imgur.com/ItnrrLN.jpg"/>
+</channel>
+<channel id="Seasons.fr">
+    <display-name>Seasons</display-name>
+	<icon src="//i.imgur.com/3wZw8jg.jpg"/>
+</channel>
+<channel id="PIWI.fr">
+    <display-name>Piwi+</display-name>
+	<icon src="//i.imgur.com/eMeGbZgt.jpg"/>
+</channel>
+<channel id="TeleTOON.fr">
+    <display-name>Télétoon +</display-name>
+	<icon src="//i.imgur.com/2Q5UJV1.png"/>
+</channel>
+<channel id="TeleNantes">
+    <display-name>Télé Nantes</display-name>
+	<icon src="//i.imgur.com/lnYjHhD.jpg"/>
+</channel>
+<channel id="NoLife.fr">
+    <display-name>No Life</display-name>
+	<icon src="//i.imgur.com/w9hpodv.png"/>
+</channel>
+<channel id="Comedie.fr">
+    <display-name>Comédie +</display-name>
+	<icon src="//i.imgur.com/R5dKwxW.png"/>
+</channel>
+<channel id="MCM.fr">
+    <display-name>MCM</display-name>
+	<icon src="//i.imgur.com/34RVngzt.jpg"/>
+</channel>
+<channel id="AB1.fr">
+    <display-name>AB1</display-name>
+	<icon src="//i.imgur.com/m5C85Z8t.jpg"/>
+</channel>
+<channel id="IDF1">
+    <display-name>IDF1</display-name>
+	<icon src="//i.imgur.com/wAXzg9A.png"/>
+</channel>
+<channel id="DemainTV">
+    <display-name>Demain TV</display-name>
+	<icon src="//i.imgur.com/YF1M1BE.png"/>
+</channel>
+<channel id="EquidiaLive.fr">
+    <display-name>Equidia</display-name>
+	<icon src="//i.imgur.com/Aut1wmM.jpg"/>
+</channel>
+<channel id="SerieClub.fr">
+    <display-name>Série Club</display-name>
+	<icon src="//i.imgur.com/Pz1WPCZ.jpg"/>
+</channel>
+<channel id="CanalplusSeries.fr">
+    <display-name>Canal + Séries</display-name>
+	<icon src="//i.imgur.com/AQGe8AX.png"/>
+</channel>
+<channel id="RTL9.fr">
+    <display-name>RTL9</display-name>
+	<icon src="//i.imgur.com/R83Gja0.png"/>
+</channel>
+<channel id="ChassePeche.fr">
+    <display-name>Chasse &amp; Pêche</display-name>
+	<icon src="//i.imgur.com/Vw5czgz.jpg"/>
+</channel>
+<channel id="TouteHistoire.fr">
+    <display-name>Toute l'Histoire</display-name>
+	<icon src="//i.imgur.com/LgBmLNR.png"/>
+</channel>
+<channel id="Teva.fr">
+    <display-name>Téva</display-name>
+	<icon src="//i.imgur.com/OSMhqqC.png"/>
+</channel>
+<channel id="CinecinemaClassic.fr">
+    <display-name>Ciné+ Classic</display-name>
+	<icon src="//i.imgur.com/ZCoVZ1K.png"/>
+</channel>
+<channel id="CinecinemaClub.fr">
+    <display-name>Ciné+ Club</display-name>
+	<icon src="//i.imgur.com/UkRWhEQ.png"/>
+</channel>
+<channel id="CinecinemaEmotion.fr">
+    <display-name>Ciné+ Emotion</display-name>
+	<icon src="//i.imgur.com/NjTh0jJ.png"/>
+</channel>
+<channel id="CinecinemaFrisson.fr">
+    <display-name>Ciné+ Frisson</display-name>
+	<icon src="//i.imgur.com/2aHAClZ.png"/>
+</channel>
+<channel id="CinecinemaPremier.fr">
+    <display-name>Ciné+ Premier</display-name>
+	<icon src="//i.imgur.com/JD7AiiU.png"/>
+</channel>
+<channel id="CinecinemaFamiz.fr">
+    <display-name>Ciné+ Famiz</display-name>
+	<icon src="//i.imgur.com/GPL2t1N.png"/>
+</channel>
+<channel id="RTSUn">
+    <display-name>RTS Un</display-name>
+	<icon src="//i.imgur.com/dVkikAF.png"/>
+</channel>
+<channel id="CANALplus.fr">
+    <display-name>Canal +</display-name>
+	<icon src="//i.imgur.com/DXiNFLz.png"/>
+</channel>
+<channel id="M6.fr">
+    <display-name>M6</display-name>
+	<icon src="//i.imgur.com/LNeK7Ut.jpg"/>
+</channel>
+<channel id="C8.fr">
+    <display-name>C8</display-name>
+	<icon src="//i.imgur.com/J30PQOP.png"/>
+</channel>
+<channel id="W9.fr">
+    <display-name>W9</display-name>
+	<icon src="//i.imgur.com/EqNY1J7.png"/>
+</channel>
+<channel id="TMC.fr">
+    <display-name>TMC</display-name>
+	<icon src="//i.imgur.com/1Nq8rTR.jpg"/>
+</channel>
+<channel id="NT1.fr">
+    <display-name>TFX</display-name>
+	<icon src="//static.playmedia-cdn.net/img/tv_channels/1145_medium.png"/>
+</channel>
+<channel id="NRJ12.fr">
+    <display-name>NRJ 12</display-name>
+	<icon src="//i.imgur.com/BDdoSly.png"/>
+</channel>
+<channel id="LCP.fr">
+    <display-name>La Chaine Parlementaire</display-name>
+	<icon src="//i.imgur.com/P0YnHlu.jpg"/>
+</channel>
+<channel id="BFMTV.fr">
+    <display-name>BFM TV</display-name>
+	<icon src="//i.imgur.com/Ry0M4Y0.png"/>
+</channel>
+<channel id="CNews.fr">
+    <display-name>CNews</display-name>
+	<icon src="//i.imgur.com/jPxb96q.png"/>
+</channel>
+<channel id="CStar.fr">
+    <display-name>CStar</display-name>
+	<icon src="//i.imgur.com/sSNnVvX.png"/>
+</channel>
+<channel id="Gulli.fr">
+    <display-name>Gulli</display-name>
+	<icon src="//i.imgur.com/uzplnrs.jpg"/>
+</channel>
+<channel id="FranceO.fr">
+    <display-name>France Ô</display-name>
+	<icon src="//i.imgur.com/Snb23KJ.png"/>
+</channel>
+<channel id="HD1.fr">
+    <display-name>TF1 Séries Films</display-name>
+	<icon src="//static.playmedia-cdn.net/img/tv_channels/1144_medium.png"/>
+</channel>
+<channel id="EquipeTV.fr">
+    <display-name>L'Equipe TV</display-name>
+	<icon src="//i.imgur.com/Z1IELMD.jpg"/>
+</channel>
+<channel id="6ter.fr">
+    <display-name>6ter</display-name>
+	<icon src="//i.imgur.com/0KLslG3.png"/>
+</channel>
+<channel id="Numero23.fr">
+    <display-name>Numéro 23</display-name>
+	<icon src="//i.imgur.com/yPbXCXK.jpg"/>
+</channel>
+<channel id="RMCdecouverte.fr">
+    <display-name>RMC Découverte</display-name>
+	<icon src="//i.imgur.com/trOS4YC.jpg"/>
+</channel>
+<channel id="Cherie25.fr">
+    <display-name>Chérie 25</display-name>
+	<icon src="//i.imgur.com/XBbSuHv.png"/>
+</channel>
+<channel id="ParisPremiere.fr">
+    <display-name>Paris Première</display-name>
+	<icon src="//i.imgur.com/aNCGIoP.jpg"/>
+</channel>
+<channel id="CANALplusSPORT.fr">
+    <display-name>Canal + Sport</display-name>
+	<icon src="//i.imgur.com/KucgW8D.png"/>
+</channel>
+<channel id="CANALplusCINEMA.fr">
+    <display-name>Canal + Cinéma</display-name>
+	<icon src="//i.imgur.com/Jxrqw54.png"/>
+</channel>
+<channel id="CANALplusFamily.fr">
+    <display-name>Canal + Family</display-name>
+	<icon src="//i.imgur.com/uxeoZaw.png"/>
+</channel>
+<channel id="PLANETE.fr">
+    <display-name>Planète +</display-name>
+	<icon src="//i.imgur.com/falwfBJ.png"/>
+</channel>
+<channel id="PLANETEnoLIMIT.fr">
+    <display-name>Planète + Action &amp; Expérience</display-name>
+	<icon src="//i.imgur.com/dhDWTjB.jpg"/>
+</channel>
+<channel id="PLANETEJustice.fr">
+    <display-name>Planète + Crime Investigation</display-name>
+	<icon src="//i.imgur.com/l09wopF.jpg"/>
+</channel>
+<channel id="CANALplusDECALE.fr">
+    <display-name>Canal + Décalé</display-name>
+	<icon src="//i.imgur.com/wKRT7Lo.png"/>
+</channel>
+<channel id="GameOne.fr">
+    <display-name>Game One</display-name>
+	<icon src="//i.imgur.com/xiTNtjA.png"/>
+</channel>
+<channel id="EuronewsF">
+    <display-name>Euronews</display-name>
+	<icon src="//i.imgur.com/gp1J2Qn.png"/>
+</channel>
+<channel id="ContactV">
+    <display-name>Contact Vision</display-name>
+	<icon src="//i.imgur.com/crmGH1f.gif"/>
+</channel>
+<channel id="TraceUrban">
+    <display-name>Trace Urban</display-name>
+	<icon src="//i.imgur.com/pma4sRi.jpg"/>
+</channel>
+<channel id="BBCFirst">
+    <display-name>BBCFirst</display-name>
+	<icon src=""/>
+</channel>
+<channel id="MTVF">
+    <display-name>MTV</display-name>
+	<icon src="//i.imgur.com/Z16ZNwZ.jpg"/>
+</channel>
+<channel id="CanalZoom">
+    <display-name>Canal Zoom</display-name>
+	<icon src="//i.imgur.com/52NcnrSt.jpg"/>
+</channel>
+<channel id="DisnCineHDBelgique">
+    <display-name>Disney Cinéma Belgique</display-name>
+	<icon src="//i.imgur.com/d9i60jG.png"/>
+</channel>
+<channel id="Animaux">
+    <display-name>Animaux</display-name>
+	<icon src="//i.imgur.com/GS1KA7E.png"/>
+</channel>
+<channel id="LaDeux.be">
+    <display-name>La Deux</display-name>
+	<icon src="//i.imgur.com/SQFgdNK.png"/>
+</channel>
+<channel id="TVCom">
+    <display-name>TVCom</display-name>
+	<icon src="//i.imgur.com/X4l4pB2.png"/>
+</channel>
+<channel id="France4.fr">
+    <display-name>France 4</display-name>
+	<icon src="//i.imgur.com/4kXbmF4.png"/>
+</channel>
+<channel id="BBCOne">
+    <display-name>BBCOne</display-name>
+	<icon src=""/>
+</channel>
+<channel id="MTVLiveHD">
+    <display-name>MTVLiveHD</display-name>
+	<icon src=""/>
+</channel>
+<channel id="ScienceetVieTV">
+    <display-name>Science &amp; Vie TV</display-name>
+	<icon src="//i.imgur.com/rPyPM6A.jpg"/>
+</channel>
+<channel id="Nickelodeon">
+    <display-name>Nickelodeon Belgique</display-name>
+	<icon src="//i.imgur.com/gu2Ipcu.png"/>
+</channel>
+<channel id="TCMcinema">
+    <display-name>TCM Cinéma</display-name>
+	<icon src="//i.imgur.com/Qk4524d.png"/>
+</channel>
+<channel id="RTLTVI.be">
+    <display-name>RTL TVI</display-name>
+	<icon src="//i.imgur.com/ps3UqUi.png"/>
+</channel>
+<channel id="BelRTL">
+    <display-name>Bel RTL</display-name>
+	<icon src="//i.imgur.com/6njFirt.png"/>
+</channel>
+<channel id="M6Boutique">
+    <display-name>M6 Boutique</display-name>
+	<icon src="//i.imgur.com/O7l2C4G.png"/>
+</channel>
+<channel id="PlugRTL.be">
+    <display-name>Plug RTL</display-name>
+	<icon src="//i.imgur.com/4qeYkR4.png"/>
+</channel>
+<channel id="TeleVesdre">
+    <display-name>Télé Vesdre</display-name>
+	<icon src="//i.imgur.com/IGf9meNt.jpg"/>
+</channel>
+<channel id="13eRue">
+    <display-name>13ème Rue</display-name>
+	<icon src="//i.imgur.com/1GdYZEh.png"/>
+</channel>
+<channel id="TVBreizh">
+    <display-name>TV Breizh</display-name>
+	<icon src="//i.imgur.com/DTVhBEW.png"/>
+</channel>
+<channel id="RAIDue">
+    <display-name>RAIDue</display-name>
+	<icon src=""/>
+</channel>
+<channel id="KTO">
+    <display-name>KTO</display-name>
+	<icon src="//i.imgur.com/NWCwsvst.jpg"/>
+</channel>
+<channel id="Voyage">
+    <display-name>Voyage</display-name>
+	<icon src="//i.imgur.com/dWk2Eh8.png"/>
+</channel>
+<channel id="Action">
+    <display-name>Action</display-name>
+	<icon src="//i.imgur.com/zXkxYG0.png"/>
+</channel>
+<channel id="NationalGeographicChannelFrance">
+    <display-name>National Géographic</display-name>
+	<icon src="//i.imgur.com/xbVAVt6.png"/>
+</channel>
+<channel id="France5">
+    <display-name>France 5</display-name>
+	<icon src="//i.imgur.com/sAecfZH.png"/>
+</channel>
+<channel id="BBCTwo">
+    <display-name>BBCTwo</display-name>
+	<icon src=""/>
+</channel>
+<channel id="ZDF">
+    <display-name>ZDF</display-name>
+	<icon src=""/>
+</channel>
+<channel id="NatGeoWildFrance">
+    <display-name>NatGeoWild</display-name>
+	<icon src="//i.imgur.com/Vhqpefo.jpg"/>
+</channel>
+<channel id="ClubRTL.be">
+    <display-name>Club RTL</display-name>
+	<icon src="//i.imgur.com/y8zP1Xo.png"/>
+</channel>
+<channel id="SundanceF">
+    <display-name>Sundance Channel</display-name>
+	<icon src="//i.imgur.com/aooNDFH.gif"/>
+</channel>
+<channel id="DasErste">
+    <display-name>DasErste</display-name>
+	<icon src=""/>
+</channel>
+<channel id="RTL">
+    <display-name>RTL</display-name>
+	<icon src=""/>
+</channel>
+<channel id="Mangas">
+    <display-name>Mangas</display-name>
+	<icon src="//i.imgur.com/3Af8zGF.png"/>
+</channel>
+<channel id="Histoire">
+    <display-name>Histoire</display-name>
+	<icon src="//i.imgur.com/gwTrWaI.png"/>
+</channel>
+<channel id="AB3">
+    <display-name>AB3</display-name>
+	<icon src="//i.imgur.com/zYlOI2F.png"/>
+</channel>
+<channel id="LCI">
+    <display-name>LCI</display-name>
+	<icon src="//i.imgur.com/6c3XoyY.jpg"/>
+</channel>
+<channel id="DobbitTVF">
+    <display-name>DobbitTVF</display-name>
+	<icon src=""/>
+</channel>
+<channel id="ES3F">
+    <display-name>Eleven Sports 3</display-name>
+	<icon src="//i.imgur.com/slIACjU.png"/>
+</channel>
+<channel id="BRFTV">
+    <display-name>BRFTV</display-name>
+	<icon src=""/>
+</channel>
+<channel id="ES1F">
+    <display-name>ES1F</display-name>
+	<icon src=""/>
+</channel>
+<channel id="AB4">
+    <display-name>AB4</display-name>
+	<icon src="//i.imgur.com/RkoHTKM.png"/>
+</channel>
+<channel id="LaUne.be">
+    <display-name>La Une</display-name>
+	<icon src="//i.imgur.com/lIl9LOy.gif"/>
+</channel>
+<channel id="Arte.fr">
+    <display-name>Arte</display-name>
+	<icon src="//i.imgur.com/4bCacaZ.png"/>
+</channel>
+<channel id="Tiji">
+    <display-name>Tiji</display-name>
+	<icon src="//i.imgur.com/R3aY39E.jpg"/>
+</channel>
+<channel id="2MMonde">
+    <display-name>2MMonde</display-name>
+	<icon src=""/>
+</channel>
+<channel id="Brava">
+    <display-name>Brava</display-name>
+	<icon src=""/>
+</channel>
+<channel id="bx1">
+    <display-name>bx1</display-name>
+	<icon src="//i.imgur.com/ii6DmEn.jpg"/>
+</channel>
+<channel id="RAITre">
+    <display-name>RAITre</display-name>
+	<icon src=""/>
+</channel>
+<channel id="ZoomF">
+    <display-name>ZoomF</display-name>
+	<icon src=""/>
+</channel>
+<channel id="TF1.fr">
+    <display-name>TF1</display-name>
+	<icon src="//i.imgur.com/SPe8thD.png"/>
+</channel>
+<channel id="TREK">
+    <display-name>Trek TV</display-name>
+	<icon src="//i.imgur.com/HNNgLhZ.jpg"/>
+</channel>
+<channel id="Ushuaia">
+    <display-name>Ushuaïa TV</display-name>
+	<icon src="//i.imgur.com/C0fjS02.png"/>
+</channel>
+<channel id="BBCEnt">
+    <display-name>BBCEnt</display-name>
+	<icon src=""/>
+</channel>
+<channel id="BabyTV">
+    <display-name>BabyTV</display-name>
+	<icon src=""/>
+</channel>
+<channel id="France3.fr">
+    <display-name>France 3</display-name>
+	<icon src="//i.imgur.com/F8oz4Dn.png"/>
+</channel>
+<channel id="DisneyJunior">
+    <display-name>Disney Junior</display-name>
+	<icon src="//i.imgur.com/AfRnyPat.jpg"/>
+</channel>
+<channel id="NoTele">
+    <display-name>No Télé</display-name>
+	<icon src="//i.imgur.com/RJu7E6b.png"/>
+</channel>
+<channel id="DisneyChannelBE">
+    <display-name>Disney Channel Belgique</display-name>
+	<icon src="//i.imgur.com/5BqiTRp.png"/>
+</channel>
+<channel id="France24F">
+    <display-name>France 24</display-name>
+	<icon src="//i.imgur.com/aJ0huCW.png"/>
+</channel>
+<channel id="RTCLiege">
+    <display-name>RTC Télé Liège</display-name>
+	<icon src="//i.imgur.com/nEgX9fM.jpg"/>
+</channel>
+<channel id="CNN">
+    <display-name>CNN</display-name>
+	<icon src=""/>
+</channel>
+<channel id="FashionTV">
+    <display-name>FashionTV</display-name>
+	<icon src=""/>
+</channel>
+<channel id="ExtremeF">
+    <display-name>ExtremeF</display-name>
+	<icon src=""/>
+</channel>
+<channel id="EurosportFrance">
+    <display-name>Eurosport</display-name>
+	<icon src="//i.imgur.com/z97dwpW.png"/>
+</channel>
+<channel id="msF">
+    <display-name>msF</display-name>
+	<icon src=""/>
+</channel>
+<channel id="TVLux">
+    <display-name>TV Lux</display-name>
+	<icon src="//i.imgur.com/PBqadWY.jpg"/>
+</channel>
+<channel id="NickelodeonJuniorFrance">
+    <display-name>Nickelodeon Junior France</display-name>
+	<icon src="//i.imgur.com/wTfhbQ8.jpg"/>
+</channel>
+<channel id="MaTele">
+    <display-name>Ma Télé</display-name>
+	<icon src="//i.imgur.com/EGEc9Zp.png"/>
+</channel>
+<channel id="RFMTV">
+    <display-name>RFM TV</display-name>
+	<icon src="//i.imgur.com/fcj1TOB.png"/>
+</channel>
+<channel id="MTVHits">
+    <display-name>MTV Hits</display-name>
+	<icon src="//i.imgur.com/vHm1yro.png"/>
+</channel>
+<channel id="TeleMB">
+    <display-name>Télé MB</display-name>
+	<icon src="//i.imgur.com/DXHLS5k.png"/>
+</channel>
+<channel id="VH1Classic">
+    <display-name>VH1Classic</display-name>
+	<icon src=""/>
+</channel>
+<channel id="CanalZ">
+    <display-name>CanalZ</display-name>
+	<icon src=""/>
+</channel>
+<channel id="BBCWorld">
+    <display-name>BBCWorld</display-name>
+	<icon src=""/>
+</channel>
+<channel id="BoomerangF">
+    <display-name>Boomerang</display-name>
+	<icon src="//i.imgur.com/yCuIJ2p.png"/>
+</channel>
+<channel id="CanalJ">
+    <display-name>Canal J</display-name>
+	<icon src="//i.imgur.com/B6CJSaS.png"/>
+</channel>
+<channel id="DisneyXD">
+    <display-name>Disney XD</display-name>
+	<icon src="//i.imgur.com/Jwq94HS.png"/>
+</channel>
+<channel id="EurospHDF">
+    <display-name>EurospHDF</display-name>
+	<icon src=""/>
+</channel>
+<channel id="ABMoteurs">
+    <display-name>AB Moteurs</display-name>
+	<icon src="//i.imgur.com/Ld0mhbO.png"/>
+</channel>
+<channel id="France2.fr">
+    <display-name>France 2</display-name>
+	<icon src="//i.imgur.com/afmgqyh.png"/>
+</channel>
+<channel id="Melody.tv">
+    <display-name>Melody</display-name>
+	<icon src="//i.imgur.com/RryU9BD.png"/>
+</channel>
+<channel id="RAIUno">
+    <display-name>RAIUno</display-name>
+	<icon src=""/>
+</channel>
+<channel id="SyFyF">
+    <display-name>SyFy</display-name>
+	<icon src="//i.imgur.com/RSxEphS.jpg"/>
+</channel>
+<channel id="ST100TVF">
+    <display-name>ST100TVF</display-name>
+	<icon src=""/>
+</channel>
+<channel id="AlJazeera">
+    <display-name>AlJazeera</display-name>
+	<icon src=""/>
+</channel>
+<channel id="Eurosport2France">
+    <display-name>Eurosport 2</display-name>
+	<icon src="//i.imgur.com/BwKJBmp.png"/>
+</channel>
+<channel id="TeleSambre">
+    <display-name>Télé Sambre</display-name>
+	<icon src="//i.imgur.com/5NXx6GW.jpg"/>
+</channel>
+<channel id="DiscoveryInvestigation">
+    <display-name>DiscoveryInvestigation</display-name>
+	<icon src=""/>
+</channel>
+<channel id="AntenneC">
+    <display-name>AntenneC</display-name>
+	<icon src=""/>
+</channel>
+<channel id="MezzoLive">
+    <display-name>MezzoLive</display-name>
+	<icon src=""/>
+</channel>
+<channel id="E!F">
+    <display-name>Entertainment Television</display-name>
+	<icon src="//i.imgur.com/jUMdWkW.png"/>
+</channel>
+<channel id="CartoonNetwork">
+    <display-name>Cartoon Network</display-name>
+	<icon src="//i.imgur.com/FDfrEnR.png"/>
+</channel>
+<channel id="TV5MONDE">
+    <display-name>TV5 Monde France Belgique Suisse</display-name>
+	<icon src="//i.imgur.com/MYGq3B5.jpg"/>
+</channel>
+<channel id="DiscoveryChannelFrance">
+    <display-name>Discovery Channel</display-name>
+	<icon src="//i.imgur.com/3xSsJs2.jpg"/>
+</channel>
+<channel id="PureVision">
+    <display-name>Pure Vision</display-name>
+	<icon src="//i.imgur.com/2xg2pQS.png"/>
+</channel>
+<channel id="ES2F">
+    <display-name>ES2F</display-name>
+	<icon src=""/>
+</channel>
+<channel id="CanalC">
+    <display-name>Canal C</display-name>
+	<icon src="//i.imgur.com/3tkqQU2.png"/>
+</channel>
+<channel id="LaTrois.be">
+    <display-name>La Trois</display-name>
+	<icon src="//i.imgur.com/58z5RTh.png"/>
+</channel>
+<channel id="Tebeo">
+    <display-name>Tébéo</display-name>
+	<icon src="//i.imgur.com/Mw8u7hO.jpg"/>
+</channel>
+<channel id="Tebesud">
+    <display-name>Tébésud</display-name>
+	<icon src="//i.imgur.com/xyQTFvU.png"/>
+</channel>
+<channel id="ExtremeSports1">
+    <display-name>Extreme Sports</display-name>
+	<icon src="//i.imgur.com/zD8LmnW.png"/>
+</channel>
+<channel id="NovelasTV">
+    <display-name>Novelas TV</display-name>
+	<icon src="//i.imgur.com/sbD2EjS.png"/>
+</channel>
+<channel id="Gong.fr">
+    <display-name>Gong</display-name>
+	<icon src="//i.imgur.com/Et3fOPx.png"/>
+</channel>
+<channel id="DiscoveryFamily">
+    <display-name>Discovery Family</display-name>
+	<icon src="//i.imgur.com/1NrMq2j.png"/>
+</channel>
+<channel id="Ginx">
+    <display-name>Ginx</display-name>
+	<icon src="//i.imgur.com/E6imEGH.png"/>
+</channel>
+<channel id="i24News">
+    <display-name>i24 News</display-name>
+	<icon src="//i.imgur.com/FVXhsJ1.png"/>
+</channel>
+<channel id="Be1">
+    <display-name>Be 1</display-name>
+	<icon src="//i.imgur.com/5JU0sO2.png"/>
+</channel>
+<channel id="MaTele">
+    <display-name>Ma Télé</display-name>
+	<icon src="//i.imgur.com/EGEc9Zp.png"/>
+</channel>
+<channel id="Eurochannel">
+    <display-name>Eurochannel</display-name>
+	<icon src="//i.imgur.com/DXbReH6.png"/>
+</channel>
+<channel id="Onzeo">
+    <display-name>Onzéo</display-name>
+	<icon src="//i.imgur.com/E8exDoD.png"/>
+</channel>
+<channel id="GongMAX">
+    <display-name>Gong MAX</display-name>
+	<icon src="//i.imgur.com/zoBd9f7.png"/>
+</channel>
+<channel id="franceinfo">
+    <display-name>franceinfo:</display-name>
+	<icon src="//i.imgur.com/oiT5v91.jpg"/>
+</channel>
+<channel id="ElleGirl">
+    <display-name>Elle Girl</display-name>
+	<icon src="//i.imgur.com/FayKzhQ.png"/>
+</channel>
+<channel id="NonStopPeople">
+    <display-name>Non Stop People</display-name>
+	<icon src="//i.imgur.com/uNKSfqm.png"/>
+</channel>
+<channel id="BET">
+    <display-name>BET</display-name>
+	<icon src="//i.imgur.com/VGkv6fN.png"/>
+</channel>
+<channel id="MyZenTV">
+    <display-name>My Zen TV</display-name>
+	<icon src="//i.imgur.com/nQP0AR9.png"/>
+</channel>
+<channel id="TeleTOONplus1.fr">
+    <display-name>Télétoon +1</display-name>
+	<icon src="//i.imgur.com/gi0MNuL.png"/>
+</channel>
+<channel id="DisneyChannelPlus1">
+    <display-name>Disney Channel + 1</display-name>
+	<icon src="//i.imgur.com/5BqiTRp.png"/>
+</channel>
+<channel id="TV5AM-LAT">
+    <display-name>TV5 Monde Amérique Latine</display-name>
+	<icon src="//i.imgur.com/TU5buKi.jpg"/>
+</channel>
+<channel id="TV5MondePacifique">
+    <display-name>TV5 Monde Pacifique</display-name>
+	<icon src="//i.imgur.com/lnKg9rZ.png"/>
+</channel>
+<channel id="TV5MondeAsie">
+    <display-name>TV5 Monde Asie</display-name>
+	<icon src="//i.imgur.com/73HWkNH.png"/>
+</channel>
+<channel id="TV5MondeMaghrebOrient">
+    <display-name>TV5 Monde Maghreb Orient</display-name>
+	<icon src="//i.imgur.com/FUEBXs2.jpg"/>
+</channel>
+<channel id="TV5MondeEtatsUnis">
+    <display-name>TV5 Monde Etats-Unis</display-name>
+	<icon src="//i.imgur.com/bNrYfcK.png"/>
+</channel>
+<channel id="TV5Canada">
+    <display-name>TV5 Canada</display-name>
+	<icon src="//i.imgur.com/dSeL4jot.jpg"/>
+</channel>
+<channel id="TV5Style">
+    <display-name>TV5 Monde Style</display-name>
+	<icon src="//i.imgur.com/TJas7Iv.jpg"/>
+</channel>
+<channel id="TVA">
+    <display-name>TVA</display-name>
+	<icon src="//i.imgur.com/0fmyd7P.jpg"/>
+</channel>
+<channel id="LCN">
+    <display-name>Le Canal Nouvelles (LCN)</display-name>
+	<icon src="//i.imgur.com/7UNnCaQ.png"/>
+</channel>
+<channel id="CanalSavoir">
+    <display-name>Canal Savoir</display-name>
+	<icon src="//i.imgur.com/vRXllgy.png"/>
+</channel>
+<channel id="TVASports">
+    <display-name>TVA Sports</display-name>
+	<icon src="//i.imgur.com/DDnSwXR.png"/>
+</channel>
+<channel id="TVASports2">
+    <display-name>TVA Sports 2</display-name>
+	<icon src="//i.imgur.com/DDnSwXR.png"/>
+</channel>
+<channel id="ICIARTV">
+    <display-name>ICI ARTV</display-name>
+	<icon src="//i.imgur.com/Th7O146.png"/>
+</channel>
+<channel id="Casa">
+    <display-name>Casa</display-name>
+	<icon src="//i.imgur.com/afv1Rpm.png"/>
+</channel>
+<channel id="ADDIKTV">
+    <display-name>Addik</display-name>
+	<icon src="//i.imgur.com/gLV848k.png"/>
+</channel>
+<channel id="CanalD">
+    <display-name>Canal D</display-name>
+	<icon src="//i.imgur.com/MIYVFeC.png"/>
+</channel>
+<channel id="Vrak">
+    <display-name>Vrak</display-name>
+	<icon src="//i.imgur.com/XvWl4l7.png"/>
+</channel>
+<channel id="MoiEtCie">
+    <display-name>Moi et Compagnie</display-name>
+	<icon src="//i.imgur.com/pEZeVMg.png"/>
+</channel>
+<channel id="SeriesPlus">
+    <display-name>Séries+</display-name>
+	<icon src="//i.imgur.com/6PYEBG8.png"/>
+</channel>
+<channel id="HistoriaCA">
+    <display-name>Historia Canada</display-name>
+	<icon src="//i.imgur.com/4SDv9BO.png"/>
+</channel>
+<channel id="ZTele">
+    <display-name>Z Télé</display-name>
+	<icon src="//i.imgur.com/t4zuR2w.png"/>
+</channel>
+<channel id="PlanetePlusCA">
+    <display-name>Planète + Canada</display-name>
+	<icon src="//i.imgur.com/falwfBJ.png"/>
+</channel>
+<channel id="ICIExplora">
+    <display-name>ICI Explora</display-name>
+	<icon src="//i.imgur.com/hx50Bk6.png"/>
+</channel>
+<channel id="prise2">
+    <display-name>prise2</display-name>
+	<icon src="//i.imgur.com/wxKBzws.png"/>
+</channel>
+<channel id="Yoopa">
+    <display-name>Yoopa</display-name>
+	<icon src="//i.imgur.com/YA6u7mI.png"/>
+</channel>
+<channel id="TeletoonCA">
+    <display-name>Télétoon Canada</display-name>
+	<icon src="//i.imgur.com/Ao9Wq2n.png"/>
+</channel>
+<channel id="DisneyChannelCA">
+    <display-name>Disney Channel Canada</display-name>
+	<icon src="//i.imgur.com/5BqiTRp.png"/>
+</channel>
+<channel id="SuperEcran1">
+    <display-name>Super Ecran 1</display-name>
+	<icon src="//i.imgur.com/bMi2pLJ.png"/>
+</channel>
+<channel id="SuperEcran2">
+    <display-name>Super Ecran 2</display-name>
+	<icon src="//i.imgur.com/bMi2pLJ.png"/>
+</channel>
+<channel id="SuperEcran3">
+    <display-name>Super Ecran 3</display-name>
+	<icon src="//i.imgur.com/bMi2pLJ.png"/>
+</channel>
+<channel id="SuperEcran4">
+    <display-name>Super Ecran 4</display-name>
+	<icon src="//i.imgur.com/bMi2pLJ.png"/>
+</channel>
+<channel id="TeleQuebec">
+    <display-name>Télé Québec</display-name>
+	<icon src="//i.imgur.com/JTKttyc.png"/>
+</channel>
+<channel id="MATV">
+    <display-name>Ma TV</display-name>
+	<icon src="//i.imgur.com/MtNRtsj.png"/>
+</channel>
+<channel id="Investigation">
+    <display-name>Investigation</display-name>
+	<icon src="//i.imgur.com/X2juf9E.jpg"/>
+</channel>
+<channel id="CanalPlusInternat">
+    <display-name>Canal + International</display-name>
+	<icon src="//i.imgur.com/CvXbZ2W.png"/>
+</channel>
+<channel id="Unis">
+    <display-name>Unis</display-name>
+	<icon src="//i.imgur.com/ai1ZIYe.png"/>
+</channel>
+<channel id="Evasion">
+    <display-name>Evasion</display-name>
+	<icon src="//i.imgur.com/1tBDlFQ.png"/>
+</channel>
+<channel id="CanalVie">
+    <display-name>Canal Vie</display-name>
+	<icon src="//i.imgur.com/qgNz1ny.png"/>
+</channel>
+<channel id="Zeste">
+    <display-name>Zeste</display-name>
+	<icon src="//i.imgur.com/uvO1zO3.png"/>
+</channel>
+<channel id="Saisons">
+    <display-name>Saisons</display-name>
+	<icon src="//i.imgur.com/AqoVak8.png"/>
+</channel>
+<channel id="TFO">
+    <display-name>TFO</display-name>
+	<icon src="//i.imgur.com/5qyJBqI.png"/>
+</channel>
+<channel id="TeleMagino">
+    <display-name>Télé Magino</display-name>
+	<icon src="//i.imgur.com/xcaOWAl.png"/>
+</channel>
+<channel id="FamilyJr">
+    <display-name>Family Junior</display-name>
+	<icon src="//i.imgur.com/tPYzP62.png"/>
+</channel>
+<channel id="CinePop">
+    <display-name>Ciné Pop</display-name>
+	<icon src="//i.imgur.com/MnltZzW.png"/>
+</channel>
+<channel id="FrissonsTV">
+    <display-name>Frissons TV</display-name>
+	<icon src="//i.imgur.com/yBgMyzK.png"/>
+</channel>
+<channel id="RDS.ca">
+    <display-name>RDS</display-name>
+	<icon src="//i.imgur.com/X2lCOLO.png"/>
+</channel>
+<channel id="RDS2.ca">
+    <display-name>RDS 2</display-name>
+	<icon src="//i.imgur.com/bNZDSyi.png"/>
+</channel>
+<channel id="RDSInfo.ca">
+    <display-name>RDS Info</display-name>
+	<icon src="//i.imgur.com/AP6H6Ms.png"/>
+</channel>
+<channel id="VOOSPORT1">
+    <display-name>Voo Sport 1</display-name>
+	<icon src="//i.imgur.com/jBhNgiJ.png"/>
+</channel>
+<channel id="VOOSPORT2">
+    <display-name>Voo Sport 2</display-name>
+	<icon src="//i.imgur.com/jBhNgiJ.png"/>
+</channel>
+<channel id="VOOSPORT3">
+    <display-name>Voo Sport 3</display-name>
+	<icon src="//i.imgur.com/jBhNgiJ.png"/>
+</channel>
+<channel id="VOOSPORT4">
+    <display-name>Voo Sport 4</display-name>
+	<icon src="//i.imgur.com/jBhNgiJ.png"/>
+</channel>
+<channel id="VOOSPORT5">
+    <display-name>Voo Sport 5</display-name>
+	<icon src="//i.imgur.com/jBhNgiJ.png"/>
+</channel>
+<channel id="ELEVENSp1">
+    <display-name>Eleven Sports 1</display-name>
+	<icon src="//i.imgur.com/slIACjU.png"/>
+</channel>
+<channel id="ELEVENSp2">
+    <display-name>Eleven Sports 2</display-name>
+	<icon src="//i.imgur.com/slIACjU.png"/>
+</channel>
+<channel id="ONPDC">
+    <display-name>On n'est pas que des cobayes</display-name>
+	<icon src="//s2-ssl.dmcdn.net/EA72m/50x50-AY9.png"/>
+</channel>
+<channel id="Oggy">
+    <display-name>Oggy et les cafards</display-name>
+	<icon src="//opus.cf/oggy.png"/>
+</channel>
+<channel id="TometJerry">
+    <display-name>Tom et Jerry</display-name>
+	<icon src="//i.imgur.com/zOZod2d.png"/>
+</channel>
+<channel id="Samantha">
+    <display-name>Samantha Oups !</display-name>
+	<icon src="//i.imgur.com/Cdbdp4i.jpg"/>
+</channel>
+<channel id="EchappeesBelles">
+    <display-name>Echappées Belles</display-name>
+	<icon src="//i.imgur.com/pP7Knj1.jpg"/>
+</channel>
+<channel id="Scenesdemenage">
+    <display-name>Scènes de ménage</display-name>
+	<icon src="//i.imgur.com/W3XASdl.jpg"/>
+</channel>
+<channel id="Enquetesimpossibles">
+    <display-name>Les enquêtes impossibles</display-name>
+	<icon src="//i.imgur.com/janADRD.jpg"/>
+</channel>
+<channel id="Catherine">
+    <display-name>Catherine et Liliane</display-name>
+	<icon src="//i.imgur.com/lmWipRT.jpg"/>
+</channel>
+<channel id="LesGuignols">
+    <display-name>Les Guignols</display-name>
+	<icon src="//i.imgur.com/B1SmHR7.jpg"/>
+</channel>
+<channel id="F1TV">
+    <display-name>Formule 1</display-name>
+	<icon src="//i.imgur.com/U7sr2Zh.png"/>
+</channel>
+<channel id="Ratz">
+    <display-name>Ratz</display-name>
+	<icon src=""/>
+</channel>
+<channel id="MCMPop">
+    <display-name>MCM Pop</display-name>
+	<icon src="//i.imgur.com/NoR7LKG.png"/>
+</channel>
+<channel id="EurosportNews">
+    <display-name>Eurosport News</display-name>
+	<icon src="//i.imgur.com/QuHwHga.png"/>
+</channel>
+<channel id="RTSInfo">
+    <display-name>RTSInfo</display-name>
+	<icon src=""/>
+</channel>
+<channel id="NRJTV">
+    <display-name>NRJ TV</display-name>
+	<icon src="//i.imgur.com/AtB5Tj1.png"/>
+</channel>
+</tv>
